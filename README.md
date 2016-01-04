@@ -21,6 +21,9 @@ BearyChat 机器人主要分为两大类 Incoming 和 Outgoing：
 [国家地理每日一图]() - 自动发送来自国家地理的高清大图
 [互动百科]() - 发送关键词搜索互动百科
 [今日汇率]() - 查询最新汇率
+[骰子机器人]() - 掷随机数，适合抽奖抽签
+[二维码机器人]() - 将 URL 链接生成二维码
+[地图机器人]() - 查看某个地方在地图上的位置
 [广州公交和下雨情况查询](https://github.com/vtmer/bearychat) - 名字已经解释了
 [BearyChat::Notifier](https://github.com/villins/bearychat-notifier) - A simple wrapper for posting to BearyChat channels
 [Capistrano::Bearychat](https://github.com/kaichen/capistrano-bearychat) - Send notifications to Bearychat about Capistrano deployments
